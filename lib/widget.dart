@@ -84,7 +84,7 @@ class ReusedBody extends StatelessWidget {
           child: Container(
             decoration: BoxDecoration(
               color: Colors.deepPurple,
-              borderRadius: BorderRadius.circular(5.0)
+              borderRadius: BorderRadius.circular(15.0),
             ),
             
             margin: const EdgeInsets.only(bottom: 50.0),
